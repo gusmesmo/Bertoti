@@ -1,1 +1,9 @@
 # Bertoti
+## Observer
+<a href="https://github.com/gusmesmo/Bertoti/tree/main/Engenharia%20de%20Software%20III/Strategy">Strategy</a>
+## Facade
+<a href="https://github.com/gusmesmo/Bertoti/tree/main/Engenharia%20de%20Software%20III/Facade">Facade</a>
+## Observer
+<a href="https://github.com/gusmesmo/Bertoti/tree/main/Engenharia%20de%20Software%20III/Observer">Observer</a>
+## Singleton
+<a href="https://github.com/gusmesmo/Bertoti/tree/main/Engenharia%20de%20Software%20III/Singleton">Singleton</a>
